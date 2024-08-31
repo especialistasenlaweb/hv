@@ -1,5 +1,19 @@
+html,body{
+    height:100%;
+    margin:0;
+    padding:0;
+}
+#hv{
+    height:100%;
+    width:100%;
+}
+
 .titulo1{
     font-family: "Sevillana", cursive;
-    font-size:80px;
+    font-size:60px;
+    position:fixed;
+    right:0;
     text-align:center;
+    text-shadow: 0 0 0.2em gold;
+    top:100px;
 }
